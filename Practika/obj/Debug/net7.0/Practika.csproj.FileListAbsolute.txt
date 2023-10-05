@@ -1,0 +1,14 @@
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\bin\Debug\net7.0\Practika.exe
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\bin\Debug\net7.0\Practika.deps.json
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\bin\Debug\net7.0\Practika.runtimeconfig.json
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\bin\Debug\net7.0\Practika.dll
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\bin\Debug\net7.0\Practika.pdb
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.AssemblyInfoInputs.cache
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.AssemblyInfo.cs
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.dll
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\refint\Practika.dll
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.pdb
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\Practika.genruntimeconfig.cache
+C:\Users\Huawei\Documents\GitHub\KFU4\Practika\obj\Debug\net7.0\ref\Practika.dll
